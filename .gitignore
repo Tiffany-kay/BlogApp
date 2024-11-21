@@ -14,6 +14,22 @@ backend/__pycache__/
 backend/db.sqlite3
 backend/media/
 backend/.env
+backend/static/
+backend/local_settings.py
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
 
 # macOS
 .DS_Store
+
+# Environment
+venv/
+env/
+.env
+
+# Dependencies
+node_modules/
